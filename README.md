@@ -1,6 +1,6 @@
 ### Boas vindas ao meu Perfil 🤓
 
-Meu nome é Guilherme Augusto 
+Meu nome é Guilherme Augusto de Souza !
 
 - Estou estudando na [Alura](https://ww.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript;
@@ -8,8 +8,8 @@ Meu nome é Guilherme Augusto
 
 ### Você entrar em cantato comigo 📧
 
-g.souza05@escola.pr.gov.br
+E-mail : g.souza05@escola.pr.gov.br
 
-@guis054
+Instagram : @guis054
 
 ![](https://media.tenor.com/hFdMyZXsZXoAAAAC/dslr-funny.gif)
